@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lieutenant Generall Cromvvell's last vvill &amp; testament: with the military directions he gave his field-officers a little before his death.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88122</idno><idno type="EEBO-CITATION">99864437</idno>
+  <idno type="VID">162019</idno>
+  <idno type="EEBO-PROQUEST">2240903986</idno>
+  
+            <idno type="STC">Wing L1979</idno>
+            <idno type="STC">Thomason E454_13</idno>
+            <idno type="STC">ESTC R204991</idno>
+            <idno type="PROQUEST">99864437</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864437e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162019)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E454[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lieutenant Generall Cromvvell's last vvill &amp; testament: with the military directions he gave his field-officers a little before his death.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162019:1"/>
+            <p>Lieutenant Generall CROMWELL'S LAST WILL &amp; TESTAMENT: <hi>WITH</hi> The <hi>Military Directions</hi> he gave his FIELD-OFFICERS a little before his Death.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162019:2"/>
+            <pb n="1" facs="tcp:162019:2"/>
+            <head>Lieutenant Generall CROMWELL'S <hi>last Will and Testament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O return a full Satisfaction to all Such as have wondred, why in all this time and torrent of agency &amp; imployment, where<g ref="char:EOLhyphen"/>in so subtile and serious a sconce as Lieu<g ref="char:EOLhyphen"/>tenant Generall <hi>Cromwell's</hi> might have been of such infinite concerne; HE was never heard of either by Letter, or any other intervening Message. HE, who was an <hi>Eye-witnesse</hi> of his <hi>Death</hi> and <hi>Buriall,</hi> shall briefly relate in every Circumstance, both truly and punctually where and how He died: in what manner he intended to have his Estate disposed: whom he princi<g ref="char:EOLhyphen"/>pally intrusted: with the expresse directions communi<g ref="char:EOLhyphen"/>cated to his Commanders and Field-Officers for the better management of their Military affaires before he died.</p>
+            <p>Lieutenant Generall <hi>Oliver Cromwell,</hi> being then at <hi>Chepstow</hi> where his Head-quarters lay, and finding him<g ref="char:EOLhyphen"/>self every day weaker then other, upon his growing in<g ref="char:EOLhyphen"/>firmity, aggravated by the Wound he had lately recei<g ref="char:EOLhyphen"/>ved, and despairing of all means of recovery; having the night before been tormented with grievous and those in<g ref="char:EOLhyphen"/>cessant Convulsions: The very next Morning early, he was pleased to call unto him Commissary <hi>Ireton,</hi> Colo<g ref="char:EOLhyphen"/>nel <hi>Horton,</hi> Col. <hi>Lewis,</hi> Captain <hi>Iones,</hi> Capt. <hi>Read,</hi> and Capt. <hi>Griffith,</hi> with others, in whose intimacy and se<g ref="char:EOLhyphen"/>cresy he principally confided. These Gentlemen desi<g ref="char:EOLhyphen"/>rous
+<pb n="2" facs="tcp:162019:3"/>to know his Commands, came towards his Bed; and drawing aside the Curtains: at the very first, fetch<g ref="char:EOLhyphen"/>ing a deep sigh, he discovered unto them all, his incu<g ref="char:EOLhyphen"/>rable condition: and that his approaching end did not so much trouble him, (though <hi>Death</hi> were the greatest <hi>Summons</hi> of terror to all Flesh) as his leaving the World, before his intended Designes arrived their wished period. He ingenuously acknowledged, that it was his absolute aime ever, by the assistance and incouragement of the L. SAY, to introduce an <hi>Anarchy,</hi> under the implicite stile of <hi>Independency:</hi> yet he must confesse withall, that there were some rising thoughts of <hi>personall Soveraignty</hi> in him, which though he shrowded and smothered for the time, yet he hoped (had not Death abridged his hopes) to have advanced to their full height.</p>
+            <p>How his continued successe in the whole pursuit and carriage of his actions, had begot in him both love and feare. Neither did he feare much the emulation of the <hi>Generall:</hi> nor Opposition of any other, in his quest after honour. For he knew well, how the <hi>Generall,</hi> though he had <hi>priority</hi> in Command: yet so long as they managed the Military affairs of the Kingdom together; he would never take in hand to <hi>plough</hi> without his <hi>Heyfer:</hi> Being such an active Foe, as the Enemy might stand in more feare of his <hi>hand,</hi> then his <hi>head:</hi> and that his practise par<g ref="char:EOLhyphen"/>tak'd more of <hi>prowesse</hi> then <hi>advice:</hi> So as, such <hi>Corrivals</hi> were not much to be feared, who would fight without feare, and without deliberation fight. For MANCHE<g ref="char:EOLhyphen"/>STER, he held him a Man, neither to be much lov'd nor fear'd; should He once faile, he knew not who would support him.</p>
+            <p>For his part, he held no Commander more securely guarded, then He who made choice of his <hi>owne</hi> for his
+<pb n="3" facs="tcp:162019:3"/>Guard. This he observed, and by enjoyment of his <hi>own Allyes</hi> so secured: as the confidence he reposed in those about him and intrusted by him, acquitted his thoughts of feare. He vow'd that he never pursued task with more care nor assiduity, then in labouring to spin out time a<g ref="char:EOLhyphen"/>bout that <hi>Treaty,</hi> intended betwixt the <hi>Parliament</hi> and <hi>His Majesty.</hi> His <hi>presence</hi> might turn the <hi>scale.</hi> This mo<g ref="char:EOLhyphen"/>ved me (said he) to labour His remove from <hi>Hampton-Court,</hi> being, as I conceived, seated too neer <hi>London:</hi> where affections were so variously disposed, as I knew not well whom to trust, excepting those <hi>City-Grandees,</hi> whose deep <hi>interests</hi> had made them Ours: so as, the ve<g ref="char:EOLhyphen"/>ry feare they had of suffering in their fortunes, obliged them to be our inseparable Favourites.</p>
+            <p>Neither could the <hi>Isle of Wight,</hi> whereto <hi>His Majesty</hi> was designed, free me from all jealousies touching His <hi>escape;</hi> unlesse I had procured <hi>Him</hi> to be His <hi>Keeper,</hi> who was so nearly allyed and really indeared to me, as I could be no lesse then confidently assured of his trust: that nei<g ref="char:EOLhyphen"/>ther <hi>price</hi> could corrupt him, nor <hi>prayer</hi> perswade him, nor <hi>power</hi> over-awe him to falsifie that trust imposed on him. Yet to colour His remove with a pretensive sem<g ref="char:EOLhyphen"/>blance of favour; I caused it to be suggested, that my zeale to doe Him service, and desire I had to study the safety and security of His Person, induced me to intimate by Letter to such as were nearest about Him; That a De<g ref="char:EOLhyphen"/>signe was lately discovered, and to me privately impar<g ref="char:EOLhyphen"/>ted; that certain Persons of inferiour and mercenary qua<g ref="char:EOLhyphen"/>lity, in hope of reward, or occasionall discontent, had joyntly practised <hi>His Death.</hi> To prevent which hatefull Design, I advised them to intimate so much to the <hi>King,</hi> to the end He might decline His danger, by a timely <hi>E<g ref="char:EOLhyphen"/>scape:</hi> Which wholsome counsell begot in Some a con<g ref="char:EOLhyphen"/>stant
+<pb n="4" facs="tcp:162019:4"/>opinion of my <hi>loyalty:</hi> and that, whatsoever I held touching this <hi>tenet</hi> of <hi>Independency,</hi> was no breach nor violation at all in the <hi>object</hi> of my <hi>loyalty.</hi> Which, who<g ref="char:EOLhyphen"/>soever should oppose, might be quickly evinc'd, by this apparent desire I had to procure His safety. But he de<g ref="char:EOLhyphen"/>serves not the name of a Commander, who laies himself open to every censure; or discovers his aimes to every credulous Intelligencer. Beames dart out the clearest, when they break forth of Clouds: and glorious events the braveliest, when they issue from dark and infolded thoughts. I w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not arrogate to my self, but I verily be<g ref="char:EOLhyphen"/>lieve, I was second to none in this Lesson of State.</p>
+            <p>Now to you, Gent: Commanders, who behold me here nearly arriving the Shore: you know well what o<g ref="char:EOLhyphen"/>vertures we have had, and what interchange of fortunes and events we have met with, since our first advance here in <hi>Wales.</hi> They are an hote &amp; implacable kind of people. And what is strange, though teechy and spitefull, yet in their waies infinitely subtile; never further from being lost, then when they seem utterly defeated. For your honours sake, be circumspect and wary; that you pre<g ref="char:EOLhyphen"/>sent them not with the least advantage. That bloud of theirs which we have already shed, and those Captives which we have despicably sold, have stamp'd in them impressive intendments of revenge: and their industry is not small in the pursuance of it. If you face the Ene<g ref="char:EOLhyphen"/>my, and Picquiere with him till your approaching For<g ref="char:EOLhyphen"/>ces advance, it will not be amisse: Many of those Com<g ref="char:EOLhyphen"/>mon Soldiers which you have here with you, are with long and continued Service much wearied and wasted; so as a little intermission will be requisite to give them breathing and refreshment. But if you come to a set Battle, let me advise you, to trie the issue of it, if your
+<pb n="5" facs="tcp:162019:4"/>endeavours may possibly effect it, in a champion part of the Country; for the Mountains, by reason of their long acquaintance &amp; habitation in them, may conduce much to their advantage.</p>
+            <p>I must be short; for the weaknesse I feel, tels me you must not heare me long. Conceale my Death with as much secrecy, as you may: the report of it, as I am their Commander, might discourage Ours, and imbolden our Foes. Let my Buriall be as obscurely performed and as covertly carried as you may. Solemne Obsequies be more properly observ'd in times of <hi>peace</hi> then <hi>warre.</hi> These might prejudice you; they could do me no good. Present these my <hi>dying words,</hi> with my long-professed Service to the L. SAY. <q rend="margQuotes">
+                  <hi>I wish all happy Successe to his prudent Counsels.</hi>
+               </q> And that his <hi>Honour</hi> would remem<g ref="char:EOLhyphen"/>ber the private Discourse which we two had at our last being together in <hi>Sring Garden.</hi> I know well his <hi>Secre<g ref="char:EOLhyphen"/>tary</hi> to be both Discreet and Secret; yet I could wish that none might partake of those <hi>Secrets</hi> which <hi>he</hi> re<g ref="char:EOLhyphen"/>serves in his <hi>blew Cabinet,</hi> but himself. He knows my meaning.</p>
+            <p>I must not forget Major Generall SKIPPON; Re<g ref="char:EOLhyphen"/>member me to him: and wish him withall, to be mind<g ref="char:EOLhyphen"/>full of that <hi>mutuall Vow</hi> which we made <hi>one</hi> to the <hi>other. "He must break his faith, if he be</hi> Caesars <hi>friend.</hi> It has been my opinion ever: wherein if I mistook, it was my mis-guided judgment that trac'd me to that Errour. <q>
+                  <hi>That it suits not with the Constitution of the best Govern<g ref="char:EOLhyphen"/>ment to establish a Monarchy.</hi>
+               </q> This he held with me. Let not a Daies mis-fortune alter his opinion. HE knows what we resolv'd upon after our Victory at <hi>Nasebe</hi> He is too ripe in years, too wel-seasoned with discretion, for any overture to change his resolution. He knows what
+<pb n="6" facs="tcp:162019:5"/>plots and designes have been long time in hatching: let him carefully nurse them at home: and couragiously manage them abroad. Hee's in a <hi>City,</hi> where he may be both <hi>lov'd</hi> and <hi>fear'd:</hi> and where he may have these <hi>Principles</hi> receiv'd, which he himself maintains. Be it his work to negotiate there; for there Springs the Foun<g ref="char:EOLhyphen"/>tain-head. By obliging the <hi>Grandees,</hi> he may with more indifferency look upon the <hi>Commons.</hi>
+            </p>
+            <p>Lastly, for the <hi>disposall</hi> of my <hi>Estate</hi> amongst Such, who by the Law of Nature have an interest in me; if the <hi>wheel</hi> turne, it will be <hi>disposed</hi> of by Others for me: But if there be a continuance of this Government, which by means of that harmony betwixt the <hi>two Houses of Parliament</hi> and the <hi>City,</hi> may be long time preserved: I deliver to you <hi>Gent.</hi> here a <hi>Codicill</hi> in trust: wherein is contained my <hi>WILL.</hi> This is all, save a friendly fare<g ref="char:EOLhyphen"/>well to you all: with my Soule to Him who is all in all.</p>
+            <argument>
+               <p>With which words <hi>he</hi> expired. His Corps were remo<g ref="char:EOLhyphen"/>ved in the Silence of the Night towards his own House at <hi>Graffam Lodge;</hi> where it was with all privacy interred: though Some report, <hi>Gloucester;</hi> others (and not with<g ref="char:EOLhyphen"/>out Some probability) that at the instancy of the <hi>Inde<g ref="char:EOLhyphen"/>pendent Party,</hi> it was conveyed to <hi>Westminster;</hi> and there privately but solemnly on the Night time buried.</p>
+               <p>But let not this difference of Opinions touching the Place of his Buriall, beget in any One the least mis-be<g ref="char:EOLhyphen"/>liefe touching this Principle: <hi rend="margQuotes">He has pay'd his Debt to</hi> Nature, <hi>but died in great arrears of allegiance to his</hi> Master.</p>
+            </argument>
+            <epigraph>
+               <q>O benigna cespes, patriae sospes, quae talem mereberis Hospitem!</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
